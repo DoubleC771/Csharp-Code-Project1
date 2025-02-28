@@ -1,0 +1,14 @@
+D:\Course Helper\repo\Csharp-Code-Project1\bin\Debug\net9.0\Csharp-Code-Project1.exe
+D:\Course Helper\repo\Csharp-Code-Project1\bin\Debug\net9.0\Csharp-Code-Project1.deps.json
+D:\Course Helper\repo\Csharp-Code-Project1\bin\Debug\net9.0\Csharp-Code-Project1.runtimeconfig.json
+D:\Course Helper\repo\Csharp-Code-Project1\bin\Debug\net9.0\Csharp-Code-Project1.dll
+D:\Course Helper\repo\Csharp-Code-Project1\bin\Debug\net9.0\Csharp-Code-Project1.pdb
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.AssemblyInfoInputs.cache
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.AssemblyInfo.cs
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.csproj.CoreCompileInputs.cache
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.dll
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\refint\Csharp-Code-Project1.dll
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.pdb
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\Csharp-Code-Project1.genruntimeconfig.cache
+D:\Course Helper\repo\Csharp-Code-Project1\obj\Debug\net9.0\ref\Csharp-Code-Project1.dll
