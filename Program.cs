@@ -20,7 +20,7 @@ Console.WriteLine("Enter a number between 5 and 10:");
 do
 {
     readResult = Console.ReadLine();
-    //capture user input in a string variable named readResult
+    //capture user input in a string variable to convert to int 
     validNumber = int.TryParse(readResult, out numericValue);
 
         if (validNumber)
